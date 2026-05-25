@@ -1,2 +1,2 @@
 # projeto_justly
-base de uma page para um site juridico.
+base de uma page web para um site juridico.
