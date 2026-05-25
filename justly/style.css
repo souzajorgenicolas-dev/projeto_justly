@@ -427,3 +427,31 @@ li:hover {
     font-weight: 500;
     font-size: 1.1rem;
 }
+.footer {
+    width: 100%;
+    min-height: 120px;
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 30px 20px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.footer span {
+    color: white;
+    font-size: 16px;
+}
+
+.footer a {
+    color: #c9a14a;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.footer a:hover {
+    color: white;
+}
